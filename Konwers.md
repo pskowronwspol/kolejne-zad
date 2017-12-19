@@ -33,7 +33,7 @@ szukamy kolejnej potegi liczby  o największej wartości która mieści się w 5
     59 - 32 = 27
 
 szukamy kolejnej potegi liczby  o największej wartości która mieści się w 32 i odejmujemy:
-    
+     
     27 - 16 = 11
 
 szukamy kolejnej potegi liczby  o największej wartości która mieści się w 11 i odejmujemy:
